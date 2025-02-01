@@ -13,6 +13,7 @@ Atualmente, sou estudante de Engenharia de Software na busca constante por apren
 - **Frameworks:** Spring (Java)
 - **Banco de Dados:** MySQL
 - **Ferramentas de Desenvolvimento:** Git, Azure DevOps
+  testes automatizados (JUnit), padrões de arquitetura (MVC, DAO, Repository)
 - **Automação:** PyAutoGUI
 - **Análise de Dados:** Pandas
 
