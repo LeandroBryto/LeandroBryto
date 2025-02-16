@@ -4,7 +4,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro_britodev10/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-barreto-5128a223a/)
 
+## 📈 Estatísticas
+ 
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrobryto&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrobryto&layout=compact&theme=radical)
 
 ## Sobre mim
 Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimoramento. Tenho foco no desenvolvimento de software, aplicando e integrando diversas tecnologias para criar soluções eficientes e escaláveis. Minha paixão por tecnologia me impulsiona a explorar novas ferramentas e metodologias para melhorar minhas habilidades e contribuir para projetos inovadores.
@@ -38,12 +41,6 @@ Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimo
 ### 🔄 Automação & Análise de Dados  
 - PyAutoGUI  
 - Pandas  
-
-
-## 📈 Estatísticas
-
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrobryto&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrobryto&layout=compact&theme=radical)
 
 ## Interesses
 Sou apaixonado por tecnologia e sempre busco aprender rapidamente sobre diversos aspectos da área. Estou interessado em projetos inovadores e desafios que me permitam crescer profissionalmente.
