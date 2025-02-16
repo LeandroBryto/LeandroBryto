@@ -13,7 +13,7 @@ Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimo
 - **Frameworks:** Spring (Java),Angular(TypeScript)
 - **Banco de Dados:** MySQL,MongoDB
 - **Ferramentas de Desenvolvimento:** Git, Azure DevOps
-  testes automatizados (JUnit), padrões de arquitetura (MVC, DAO, Repository)
+- ** testes automatizados (JUnit), padrões de arquitetura (MVC, DAO, Repository)
 - **Automação:** PyAutoGUI
 - **Análise de Dados:** Pandas
 
