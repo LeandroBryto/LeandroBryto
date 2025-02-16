@@ -43,6 +43,5 @@ Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimo
 - Pandas  
 
 ## Interesses
-Sou apaixonado por tecnologia e sempre busco aprender rapidamente sobre diversos aspectos da área. Estou interessado em projetos inovadores e desafios que me permitam crescer profissionalmente.
 
 👨‍🎓 Sou apaixonado por tecnologia e aprendizado contínuo. Busco desafios que me permitam crescer profissionalmente e aprimorar minhas habilidades em desenvolvimento de software, arquitetura de sistemas e automação de processos. Tenho interesse em projetos inovadores que envolvam backend, frontend com Angular, IoT e soluções escaláveis..
