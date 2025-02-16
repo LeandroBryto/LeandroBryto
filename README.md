@@ -9,14 +9,36 @@
 ## Sobre mim
 Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimoramento. Tenho foco no desenvolvimento de software, aplicando e integrando diversas tecnologias para criar soluções eficientes e escaláveis. Minha paixão por tecnologia me impulsiona a explorar novas ferramentas e metodologias para melhorar minhas habilidades e contribuir para projetos inovadores.
 
-## Tecnologias
-- **Linguagens de Programação:** Java, Python
-- **Frameworks:** Spring (Java),Angular(TypeScript)
-- **Banco de Dados:** MySQL,MongoDB
-- **Ferramentas de Desenvolvimento:** Git, Azure DevOps
-- ** testes automatizados (JUnit), padrões de arquitetura (MVC, DAO, Repository)
-- **Automação:** PyAutoGUI
-- **Análise de Dados:** Pandas
+## 🚀 Tecnologias  
+
+### 💻 Linguagens de Programação  
+- Java  
+- Python  
+- TypeScript  
+
+### 🚀 Frameworks  
+- **Backend:** Spring Boot (Java)  
+- **Frontend:** Angular (TypeScript)  
+
+### 📂 Banco de Dados  
+- MySQL  
+- MongoDB  
+
+### 🛠️ Ferramentas de Desenvolvimento  
+- Git  
+- GitHub  
+- GitLab  
+- Azure DevOps  
+
+### ✅ Testes e Arquitetura  
+- JUnit  
+- Mockito  
+- **Padrões de Arquitetura:** MVC, DAO, Repository  
+
+### 🔄 Automação & Análise de Dados  
+- PyAutoGUI  
+- Pandas  
+
 
 ## Interesses
 Sou apaixonado por tecnologia e sempre busco aprender rapidamente sobre diversos aspectos da área. Estou interessado em projetos inovadores e desafios que me permitam crescer profissionalmente.
