@@ -40,6 +40,11 @@ Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimo
 - Pandas  
 
 
+## 📈 Estatísticas
+
+![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrobryto&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrobryto&layout=compact&theme=radical)
+
 ## Interesses
 Sou apaixonado por tecnologia e sempre busco aprender rapidamente sobre diversos aspectos da área. Estou interessado em projetos inovadores e desafios que me permitam crescer profissionalmente.
 
