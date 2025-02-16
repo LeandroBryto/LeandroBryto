@@ -12,6 +12,18 @@
 ## Sobre mim
 Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimoramento. Tenho foco no desenvolvimento de software, aplicando e integrando diversas tecnologias para criar soluções eficientes e escaláveis. Minha paixão por tecnologia me impulsiona a explorar novas ferramentas e metodologias para melhorar minhas habilidades e contribuir para projetos inovadores.
 
+## 🎓 Certificados & Cursos
+
+- **[Spring Framework - Udemy](https://www.udemy.com/course/spring-framework/)**
+- **[Engenharia de Software - IESB](https://www.iesb.br/)**
+- **[Análise e Desenvolvimento de Sistemas - Estácio](https://www.estacio.br/)**
+
+## 🌟 Soft Skills
+
+- Comunicação clara e eficaz
+- Trabalho em equipe
+- Resolução de problemas complexos
+
 ## 🚀 Tecnologias  
 
 ### 💻 Linguagens de Programação  
