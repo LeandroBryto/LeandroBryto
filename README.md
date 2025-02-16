@@ -6,12 +6,12 @@
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrobryto&show_icons=true&theme=radical)
 
 ## Sobre mim
-Atualmente, sou estudante de Engenharia de Software na busca constante por aprendizado e aprimoramento. Meu foco principal é no desenvolvimento de software, onde aplico e integro diversas tecnologias em meu dia a dia.
+Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimoramento. Tenho foco no desenvolvimento de software, aplicando e integrando diversas tecnologias para criar soluções eficientes e escaláveis. Minha paixão por tecnologia me impulsiona a explorar novas ferramentas e metodologias para melhorar minhas habilidades e contribuir para projetos inovadores.
 
 ## Tecnologias
 - **Linguagens de Programação:** Java, Python
-- **Frameworks:** Spring (Java)
-- **Banco de Dados:** MySQL
+- **Frameworks:** Spring (Java),Angular(TypeScript)
+- **Banco de Dados:** MySQL,MongoDB
 - **Ferramentas de Desenvolvimento:** Git, Azure DevOps
   testes automatizados (JUnit), padrões de arquitetura (MVC, DAO, Repository)
 - **Automação:** PyAutoGUI
@@ -20,4 +20,4 @@ Atualmente, sou estudante de Engenharia de Software na busca constante por apren
 ## Interesses
 Sou apaixonado por tecnologia e sempre busco aprender rapidamente sobre diversos aspectos da área. Estou interessado em projetos inovadores e desafios que me permitam crescer profissionalmente.
 
-👨‍🎓 Estudante de Engenharia de Software interessado em aprender e aprimorar habilidades em desenvolvimento de software. Apaixonado por tecnologia e sempre buscando aprender rapidamente sobre diversos aspectos da área.
+👨‍🎓 Sou apaixonado por tecnologia e aprendizado contínuo. Busco desafios que me permitam crescer profissionalmente e aprimorar minhas habilidades em desenvolvimento de software, arquitetura de sistemas e automação de processos. Tenho interesse em projetos inovadores que envolvam backend, frontend com Angular, IoT e soluções escaláveis..
