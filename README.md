@@ -1,7 +1,7 @@
 ### Olá! Eu sou Leandro Barreto ✋
 
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leandro.barreto.779/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandrob_britto/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro_britodev10/)
 
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrobryto&show_icons=true&theme=radical)
 
