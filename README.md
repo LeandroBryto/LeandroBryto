@@ -42,7 +42,38 @@ Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimo
 - Git  
 - GitHub  
 - GitLab  
+- Azure DevOps
+- ### 🚀 Tecnologias  
+
+### 💻 Linguagens de Programação  
+- Java  
+- Python  
+- TypeScript  
+
+### 🚀 Frameworks  
+- **Backend:** Spring Boot (Java)  
+- **Frontend:** Angular (TypeScript)  
+
+### 📂 Banco de Dados  
+- MySQL  
+- MongoDB  
+
+### 🛠️ Ferramentas de Desenvolvimento  
+- Git  
+- GitHub  
+- GitLab  
 - Azure DevOps  
+- **Docker** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### ✅ Testes e Arquitetura  
+- JUnit  
+- Mockito  
+- **Padrões de Arquitetura:** MVC, DAO, Repository  
+
+### 🔄 Automação & Análise de Dados  
+- PyAutoGUI  
+- Pandas  
+
 
 ### ✅ Testes e Arquitetura  
 - JUnit  
