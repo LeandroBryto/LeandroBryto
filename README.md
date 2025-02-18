@@ -62,8 +62,7 @@ Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimo
 - Git  
 - GitHub  
 - GitLab  
-- Azure DevOps  
-- **Docker** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- Docker
 
 ### ✅ Testes e Arquitetura  
 - JUnit  
