@@ -26,7 +26,7 @@ Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimo
 ## 📊 Metodologias de Trabalho  
 
 - **Kanban**  
-- **Ágil (Agile)**  
+- **Ágil**  
 
 
 ## 🚀 Tecnologias  
@@ -47,8 +47,6 @@ Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimo
 ### 🛠️ Ferramentas de Desenvolvimento  
 - Git  
 - GitHub  
-- GitLab  
-- Azure DevOps
 - Docker
 
 ### ✅ Testes e Arquitetura  
