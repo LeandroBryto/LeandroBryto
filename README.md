@@ -22,6 +22,17 @@ Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimo
 - Comunicação clara e eficaz
 - Trabalho em equipe
 - Resolução de problemas complexos
+- ## 🌟 Soft Skills
+
+- Comunicação clara e eficaz  
+- Trabalho em equipe  
+- Resolução de problemas complexos  
+
+## 📊 Metodologias de Trabalho  
+
+- **Kanban**  
+- **Ágil (Agile)**  
+
 
 ## 🚀 Tecnologias  
 
