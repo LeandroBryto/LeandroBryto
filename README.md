@@ -42,7 +42,14 @@ Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimo
 
 ### 📂 Banco de Dados  
 - MySQL  
-- MongoDB  
+- MongoDB
+
+## 📄 Documentação de APIs  
+- **Swagger (SpringDoc OpenAPI)**  
+  - Experiência na criação de documentação de APIs REST  
+  - Configuração de endpoints no Swagger UI  
+  - Integração com Spring Boot para geração automática de especificações OpenAPI  
+
 
 ### 🛠️ Ferramentas de Desenvolvimento  
 - Git  
