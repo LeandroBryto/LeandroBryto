@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrobryto&layout=compact&theme=radical)
 
 ## Sobre mim
-Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimoramento. Tenho foco no desenvolvimento de software, aplicando e integrando diversas tecnologias para criar soluções eficientes e escaláveis. Minha paixão por tecnologia me impulsiona a explorar novas ferramentas e metodologias para melhorar minhas habilidades e contribuir para projetos inovadores.
+Sou um desenvolvedor apaixonado por criar soluções escaláveis e eficientes, com experiência em Java, Spring Boot e Angular. Meu foco é desenvolver aplicações robustas e bem estruturadas, sempre seguindo boas práticas e metodologias ágeis.
 
 ## 🚀 Minha Trajetória  
 
