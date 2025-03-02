@@ -11,6 +11,19 @@
 ## Sobre mim
 Sou estudante de Engenharia de Software, sempre em busca de aprendizado e aprimoramento. Tenho foco no desenvolvimento de software, aplicando e integrando diversas tecnologias para criar soluções eficientes e escaláveis. Minha paixão por tecnologia me impulsiona a explorar novas ferramentas e metodologias para melhorar minhas habilidades e contribuir para projetos inovadores.
 
+## 🚀 Minha Trajetória  
+
+Minha jornada na tecnologia começou com um grande interesse em desenvolvimento de software. Desde então, venho evoluindo constantemente, explorando tecnologias essenciais para construção de aplicações modernas e escaláveis.  
+
+📌 **Roadmap de Aprendizado:**  
+✔️ **Java & Spring Boot** – Desenvolvimento backend robusto e seguro.  
+✔️ **Angular & TypeScript** – Construção de interfaces dinâmicas e performáticas.  
+✔️ **Banco de Dados** – Modelagem e gerenciamento eficiente com MySQL e MongoDB.  
+✔️ **Git & Docker** – Controle de versão e containers para otimização de deploys.  
+✔️ **Metodologias Ágeis** – Aplicação de práticas como Kanban e Scrum.  
+
+🔗 **Portfólio:** [Leandro Barreto - Portfólio](https://leandrobryto.github.io/Leandrodevsite/)  
+
 ## 🎓 Certificados & Cursos
 
 - **[Spring Framework - Udemy](https://www.udemy.com/course/spring-framework/)**
