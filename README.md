@@ -22,7 +22,7 @@ Minha jornada na tecnologia começou com um grande interesse em desenvolvimento 
 ✔️ **Git & Docker** – Controle de versão e containers para otimização de deploys.  
 ✔️ **Metodologias Ágeis** – Aplicação de práticas como Kanban e Scrum.  
 
-🔗 **Veja mais sobre minha trajetória:** [Roadmap Angular & Spring Boot](https://leandrobryto.github.io/Leandrodevsite/)  
+🔗 ** Veja meus projetos e minha evolução:** [Roadmap Angular & Spring Boot](https://leandrobryto.github.io/Leandrodevsite/)  
 
 ## 🎓 Certificados & Cursos
 
