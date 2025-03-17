@@ -39,7 +39,7 @@ Minha jornada na tecnologia começou com um grande interesse em desenvolvimento 
 ## 📊 Metodologias de Trabalho  
 
 - **Kanban**  
-- **Ágil**  
+- **Scrum**  
 
 
 ## 🚀 Tecnologias  
