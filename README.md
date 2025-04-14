@@ -9,11 +9,29 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrobryto&layout=compact&theme=radical)
 
 ## Sobre mim
-Sou um desenvolvedor apaixonado por criar soluções escaláveis e eficientes, com experiência em Java, Spring Boot e Angular. Meu foco é desenvolver aplicações robustas e bem estruturadas, sempre seguindo boas práticas e metodologias ágeis.
+Sou um desenvolvedor focado em criar soluções eficientes, escaláveis e de fácil manutenção. Tenho experiência prática com Java, Spring Boot, Angular, MySQL e princípios de arquitetura de software, e estou sempre buscando aplicar boas práticas de desenvolvimento como SOLID, testes automatizados e integração contínua. Gosto de trabalhar em equipe, compartilhar conhecimento e transformar ideias em produtos funcionais que gerem impacto real.
 
 ## 🚀 Minha Trajetória  
 
-Minha jornada na tecnologia começou com um grande interesse em desenvolvimento de software. Desde então, venho evoluindo constantemente, explorando tecnologias essenciais para construção de aplicações modernas e escaláveis.  
+Minha jornada na tecnologia começou com o curso Técnico em Análise e Desenvolvimento de Sistemas, evoluindo para o Bacharelado em Engenharia de Software. Desde então, tenho aprofundado meu conhecimento em desenvolvimento backend e frontend, com destaque para:
+
+Desenvolvimento de APIs REST com Spring Boot
+
+Criação de interfaces modernas com Angular
+
+Integração de sistemas e consumo de APIs externas
+
+Projetos com MySQL e JPA/Hibernate
+
+Aplicação de testes e versionamento com JUnit e Git
+
+Boas práticas com Clean Code, SOLID e CI/CD
+
+Também possuo certificações como:
+
+Spring Framework – Udemy
+
+Network Defense – Cisco Networking Academy
 
 📌 **Roadmap de Aprendizado:**  
 ✔️ **Java & Spring Boot** – Desenvolvimento backend robusto e seguro.  
