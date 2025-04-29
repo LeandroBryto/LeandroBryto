@@ -9,8 +9,8 @@
 🔍 Em busca de oportunidades para criar soluções de alto impacto
 
 ### 🌐 Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrobarreto/) 
-[![GitHub](https://img.shields.io/badge/GitHub-171515.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-barreto-5128a223a/) 
+[![GitHub](https://img.shields.io/badge/GitHub-171515.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leandrobryto) 
 
 </div>
 
@@ -21,7 +21,7 @@
 > ### Linguagens de Programação
 > ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
 > ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 > ### Desenvolvimento Web e Mobile
 > ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) 
@@ -50,7 +50,7 @@
 > - Docker Compose para orquestração de containers
 > - Banco de dados MySQL
 > - Testes unitários com JUnit
-> [🔗 Acesse o projeto no GitHub](https://github.com/SEU_USUARIO/kafka-service-mesh)
+> [🔗 Acesse o projeto no GitHub](https://github.com/Leandrobryto/kafka-service-mesh)
 
 ---
 
@@ -66,10 +66,10 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USUARIO&theme=codeSTACKr" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SEU_USUARIO&theme=codeSTACKr&utcOffset=-3" alt="Horários de maior produtividade"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=codeSTACKr" alt="Linguagens usadas"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USUARIO&theme=codeSTACKr" alt="Linguagem mais usada"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leandrobryto&theme=codeSTACKr" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Leandrobryto&theme=codeSTACKr&utcOffset=-3" alt="Horários de maior produtividade"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leandrobryto&theme=codeSTACKr" alt="Linguagens usadas"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leandrobryto&theme=codeSTACKr" alt="Linguagem mais usada"/>
 </div>
 
 ---
@@ -77,7 +77,7 @@
 <!-- Contador de Visitantes -->
 <div align="center">
   <br><p><b>Quantidade de visitantes</b></p>  
-  <p><img align="center" src="https://profile-counter.glitch.me/SEU_USUARIO/count.svg" /></p> 
+  <p><img align="center" src="https://profile-counter.glitch.me/Leandrobryto/count.svg" /></p> 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3a43e0&height=120&section=footer"/>
