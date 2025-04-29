@@ -6,15 +6,26 @@
 🎓 Graduando em Engenharia de Software (IESB)  
 💻 Técnico em Análise e Desenvolvimento de Sistemas (Estácio)  
 🚀 Desenvolvedor Full Stack focado em Java, Spring Boot e Angular  
-🔍 Em busca de oportunidades para criar soluções de alto impacto
 
 ### 🌐 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-barreto-5128a223a/) 
-[![GitHub](https://img.shields.io/badge/GitHub-171515.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leandrobryto) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro_britodev10/)
+</div>
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+  
+![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrobryto&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrobryto&layout=compact&theme=radical)
 
 </div>
 
 ---
+---
+
+
 
 ## 🛠️ Habilidades Técnicas
 
@@ -63,14 +74,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leandrobryto&theme=codeSTACKr" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Leandrobryto&theme=codeSTACKr&utcOffset=-3" alt="Horários de maior produtividade"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leandrobryto&theme=codeSTACKr" alt="Linguagens usadas"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leandrobryto&theme=codeSTACKr" alt="Linguagem mais usada"/>
-</div>
 
 ---
 
