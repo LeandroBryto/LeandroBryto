@@ -6,19 +6,10 @@
 🎓 Graduando em Engenharia de Software (IESB)  
 💻 Técnico em Análise e Desenvolvimento de Sistemas (Estácio)  
 🚀 Desenvolvedor Full Stack especializado em Java, Spring Boot e Angular  
-🔍 Em busca de oportunidades para criar soluções inovadoras
-
-## 📈 GitHub Contributions
-
-
-<div align="center">
-  ![Leandro's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Leandrobryto&theme=github)
-</div>
 
 ### 🌐 Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro_britodev10/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-barreto-5128a223a/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leandrobryto)
 
 </div>
 
@@ -88,16 +79,4 @@
 
 - **Kanban**  
 - **Scrum**
-
----
-
-## 📈 Estatísticas
-
-<div align="center">
-
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrobryto&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrobryto&layout=compact&theme=radical)
-
-</div>
-
 
