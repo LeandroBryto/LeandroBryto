@@ -12,20 +12,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro_britodev10/)
 </div>
 ---
-
-## 📈 Estatísticas
+📈 GitHub Summary Cards
 
 <div align="center">
-  
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrobryto&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrobryto&layout=compact&theme=radical)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leandrobryto&theme=codeSTACKr" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Leandrobryto&theme=codeSTACKr&utcOffset=-3" alt="Horários de maior produtividade"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leandrobryto&theme=codeSTACKr" alt="Linguagens usadas"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leandrobryto&theme=codeSTACKr" alt="Linguagem mais usada"/>
 </div>
-
 ---
----
-
-
 
 ## 🛠️ Habilidades Técnicas
 
