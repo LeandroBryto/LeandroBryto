@@ -14,12 +14,8 @@
 ---
 📈 GitHub Summary Cards
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leandrobryto&theme=codeSTACKr" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Leandrobryto&theme=codeSTACKr&utcOffset=-3" alt="Horários de maior produtividade"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leandrobryto&theme=codeSTACKr" alt="Linguagens usadas"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leandrobryto&theme=codeSTACKr" alt="Linguagem mais usada"/>
-</div>
+![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrobryto&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrobryto&layout=compact&theme=radical)
 ---
 
 ## 🛠️ Habilidades Técnicas
@@ -69,13 +65,3 @@
 
 ---
 
-
----
-
-<!-- Contador de Visitantes -->
-<div align="center">
-  <br><p><b>Quantidade de visitantes</b></p>  
-  <p><img align="center" src="https://profile-counter.glitch.me/Leandrobryto/count.svg" /></p> 
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3a43e0&height=120&section=footer"/>
