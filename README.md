@@ -1,93 +1,83 @@
-### Olá! Eu sou Leandro Barreto ✋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3a43e0&height=120&section=header"/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro_britodev10/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-barreto-5128a223a/)
+<div align="center">
+  
+# 👋 Olá, mundo! Eu sou o Leandro Barreto
+🎓 Graduando em Engenharia de Software (IESB)  
+💻 Técnico em Análise e Desenvolvimento de Sistemas (Estácio)  
+🚀 Desenvolvedor Full Stack focado em Java, Spring Boot e Angular  
+🔍 Em busca de oportunidades para criar soluções de alto impacto
 
-## 📈 Estatísticas
- 
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrobryto&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrobryto&layout=compact&theme=radical)
+### 🌐 Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrobarreto/) 
+[![GitHub](https://img.shields.io/badge/GitHub-171515.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO) 
 
-## Sobre mim
-Sou um desenvolvedor focado em criar soluções eficientes, escaláveis e de fácil manutenção. Tenho experiência prática com Java, Spring Boot, Angular, MySQL e princípios de arquitetura de software, e estou sempre buscando aplicar boas práticas de desenvolvimento como SOLID, testes automatizados e integração contínua. Gosto de trabalhar em equipe, compartilhar conhecimento e transformar ideias em produtos funcionais que gerem impacto real.
+</div>
 
-## 🚀 Minha Trajetória  
+---
 
-Minha jornada na tecnologia começou com o curso Técnico em Análise e Desenvolvimento de Sistemas, evoluindo para o Bacharelado em Engenharia de Software. Desde então, tenho aprofundado meu conhecimento em desenvolvimento backend e frontend, com destaque para:
+## 🛠️ Habilidades Técnicas
 
-Desenvolvimento de APIs REST com Spring Boot
+> ### Linguagens de Programação
+> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+> ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Criação de interfaces modernas com Angular
+> ### Desenvolvimento Web e Mobile
+> ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) 
+> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) 
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-Integração de sistemas e consumo de APIs externas
+> ### Banco de Dados
+> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+> ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-Projetos com MySQL e JPA/Hibernate
+> ### Mensageria e Infraestrutura
+> ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) 
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Aplicação de testes e versionamento com JUnit e Git
+> ### Boas Práticas
+> `SOLID` • `Clean Code` • `Domain-Driven Design (DDD)` • `Testes Automatizados (JUnit, Mockito)` • `CI/CD`
 
-Boas práticas com Clean Code, SOLID e CI/CD
+---
 
-Também possuo certificações como:
+## 📚 Projetos Recentes
 
-Spring Framework – Udemy
+> ### Microserviços com Spring Boot, Kafka e Docker
+> - Arquitetura distribuída baseada em microserviços
+> - Comunicação assíncrona usando Kafka
+> - Docker Compose para orquestração de containers
+> - Banco de dados MySQL
+> - Testes unitários com JUnit
+> [🔗 Acesse o projeto no GitHub](https://github.com/SEU_USUARIO/kafka-service-mesh)
 
-Network Defense – Cisco Networking Academy
+---
 
-📌 **Roadmap de Aprendizado:**  
-✔️ **Java & Spring Boot** – Desenvolvimento backend robusto e seguro.  
-✔️ **Angular & TypeScript** – Construção de interfaces dinâmicas e performáticas.  
-✔️ **Banco de Dados** – Modelagem e gerenciamento eficiente com MySQL e MongoDB.  
-✔️ **Git & Docker** – Controle de versão e containers para otimização de deploys.  
-✔️ **Metodologias Ágeis** – Aplicação de práticas como Kanban e Scrum.  
+## 🎯 Diferenciais
 
-🔗 ** Veja meus projetos e minha evolução:** [Roadmap Angular & Spring Boot](https://leandrobryto.github.io/Leandrodevsite/)  
+- Visão estratégica de projetos e negócios
+- Adaptação rápida a novos desafios
+- Comunicação técnica e não técnica clara
+- Gestão de tempo com foco em produtividade e qualidade
 
-## 🎓 Certificados & Cursos
+---
 
-- **[Spring Framework - Udemy](https://www.udemy.com/course/spring-framework/)**
-- **[Engenharia de Software - IESB](https://www.iesb.br/)**
-- **[Análise e Desenvolvimento de Sistemas - Estácio](https://www.estacio.br/)**
+## 📈 GitHub Stats
 
-## 🌟 Soft Skills
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USUARIO&theme=codeSTACKr" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SEU_USUARIO&theme=codeSTACKr&utcOffset=-3" alt="Horários de maior produtividade"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=codeSTACKr" alt="Linguagens usadas"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USUARIO&theme=codeSTACKr" alt="Linguagem mais usada"/>
+</div>
 
-- Comunicação clara e eficaz
-- Trabalho em equipe
-- Resolução de problemas complexos
+---
 
-## 📊 Metodologias de Trabalho  
+<!-- Contador de Visitantes -->
+<div align="center">
+  <br><p><b>Quantidade de visitantes</b></p>  
+  <p><img align="center" src="https://profile-counter.glitch.me/SEU_USUARIO/count.svg" /></p> 
+</div>
 
-- **Kanban**  
-- **Scrum**  
-
-
-## 🚀 Tecnologias  
-
-### 💻 Linguagens de Programação  
-- Java  
-- Python  
-- TypeScript  
-
-### 🚀 Frameworks  
-- **Backend:** Spring Boot (Java)  
-- **Frontend:** Angular (TypeScript)  
-
-### 📂 Banco de Dados  
-- MySQL  
-- MongoDB
-
-## 📄 Documentação de APIs  
-- **Swagger (SpringDoc OpenAPI)**  
-  - Experiência na criação de documentação de APIs REST  
-  - Configuração de endpoints no Swagger UI  
-  - Integração com Spring Boot para geração automática de especificações OpenAPI  
-
-
-### 🛠️ Ferramentas de Desenvolvimento  
-- Git  
-- GitHub  
-- Docker
-
-### ✅ Testes e Arquitetura  
-- JUnit  
-- Mockito  
-- **Padrões de Arquitetura:** MVC, DAO, Repository  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3a43e0&height=120&section=footer"/>
