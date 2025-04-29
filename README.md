@@ -8,6 +8,13 @@
 🚀 Desenvolvedor Full Stack especializado em Java, Spring Boot e Angular  
 🔍 Em busca de oportunidades para criar soluções inovadoras
 
+## 📈 GitHub Contributions
+
+
+<div align="center">
+  ![Leandro's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Leandrobryto&theme=github)
+</div>
+
 ### 🌐 Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro_britodev10/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-barreto-5128a223a/)
@@ -46,7 +53,11 @@
 </div>
 
 ### ✅ Testes e Arquitetura
-- **Testes:** JUnit, Mockito  
+- **Testes:** 
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" height="40" alt="JUnit logo"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Mockito-logo.png" height="40" alt="Mockito logo"/>  <!-- Usando uma imagem direta do Mockito -->
+  </div>
 - **Padrões de Arquitetura:** MVC, DAO, Repository
 
 ### 📄 Documentação de APIs
@@ -89,23 +100,4 @@
 
 </div>
 
----
 
-## 📈 GitHub Summary Cards
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leandrobryto&theme=codeSTACKr" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Leandrobryto&theme=codeSTACKr&utcOffset=-3" alt="Horários de maior produtividade"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leandrobryto&theme=codeSTACKr" alt="Linguagens usadas"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leandrobryto&theme=codeSTACKr" alt="Linguagem mais usada"/>
-</div>
-
----
-
-<!-- Contador de Visitantes -->
-<div align="center">
-  <br><p><b>Quantidade de visitantes</b></p>  
-  <p><img align="center" src="https://profile-counter.glitch.me/Leandrobryto/count.svg" /></p> 
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3a43e0&height=120&section=footer"/>
