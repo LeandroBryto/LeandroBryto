@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# **👋 Olá, Mundo! Eu sou o Leandro Barreto**  
+# **Leandro Barreto**  
 🎓 **Graduando em Engenharia de Software** (IESB)  
 💻 **Técnico em Análise e Desenvolvimento de Sistemas** (Estácio)  
 🚀 **Desenvolvedor Full Stack** com foco em **Java**, **Spring Boot** e **Angular**
@@ -22,36 +22,37 @@
 
 ## 🚀 Tecnologias
 
-### 💻 Linguagens
+### 💻 **Linguagens**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
 </p>
 
-### 🚀 Frameworks
+### 🚀 **Frameworks**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" title="Angular"/>
 </p>
 
-### 📂 Banco de Dados
+### 📂 **Banco de Dados**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>
 </p>
 
-### 🛠️ Ferramentas
+### 🛠️ **Ferramentas e Plataformas**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes"/>
 </p>
 
-### ✅ Testes e Arquitetura
-**Testes:** JUnit, Mockito  
-**Arquitetura:** MVC, DAO, Repository  
-**APIs:** Swagger (SpringDoc OpenAPI)
+### ✅ **Testes e Arquitetura**
+**Testes**: JUnit, Mockito  
+**Arquitetura**: MVC, DAO, Repository  
+**APIs**: Swagger (SpringDoc OpenAPI)
 
 ---
 
@@ -63,27 +64,19 @@
 
 ---
 
-## 🧠 Soft Skills
+## 🧠 **Soft Skills**
 
 - **Comunicação clara e objetiva**
-- **Resolução de problemas**
-- **Colaboração em equipe**
+- **Resolução de problemas complexos**
+- **Colaboração em equipes ágeis e multidisciplinares**
 
 ---
 
-## 📊 Metodologias de Trabalho
+## 📊 **Metodologias de Trabalho**
 
 - ✅ **Kanban**
 - ✅ **Scrum**
+- ✅ **Desenvolvimento Ágil**
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandrobarreto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-contributions-api.deno.dev/leandrobarreto.svg" alt="contribution chart" />
-</div>
