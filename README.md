@@ -81,4 +81,8 @@
 - ✅ **Desenvolvimento Ágil**
 
 ---
-
+<div align="right" style="font-family: 'Courier New', monospace; padding: 10px; border-left: 3px solid #3a43e0; margin-left: auto; width: 80%;">
+  <code style="color: #3a43e0;"></code> <i>"Código limpo não é um luxo, é uma necessidade."</i><br>
+  <code style="color: #3a43e0;"></code> <i>"A melhor documentação é o código bem escrito."</i><br>
+  <strong style="display: block; text-align: right; margin-top: 5px; color: #3a43e0;"> Leandro Barreto</strong>
+</div>
