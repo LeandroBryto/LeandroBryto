@@ -2,19 +2,12 @@
 
 <div align="center">
 
-# 👋 Olá, mundo! Eu sou o Leandro Barreto  
-🎓 Graduando em Engenharia de Software (IESB)  
-💻 Técnico em Análise e Desenvolvimento de Sistemas (Estácio)  
-🚀 Desenvolvedor Full Stack com foco em Java, Spring Boot e Angular  
+# **👋 Olá, Mundo! Eu sou o Leandro Barreto**  
+🎓 **Graduando em Engenharia de Software** (IESB)  
+💻 **Técnico em Análise e Desenvolvimento de Sistemas** (Estácio)  
+🚀 **Desenvolvedor Full Stack** com foco em **Java**, **Spring Boot** e **Angular**
 
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/leandrobarreto/leandrobarreto/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 ---
-
-<div align="center">
 
 ## 🌐 Conecte-se comigo
 
@@ -25,8 +18,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
-
+---
 
 ## 🚀 Tecnologias
 
@@ -57,34 +49,41 @@
 </p>
 
 ### ✅ Testes e Arquitetura
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Mockito-logo.png" height="40" alt="Mockito"/>
-</p>
-
-- **Arquitetura:** MVC, DAO, Repository  
-- **APIs:** Swagger (SpringDoc OpenAPI)
+**Testes:** JUnit, Mockito  
+**Arquitetura:** MVC, DAO, Repository  
+**APIs:** Swagger (SpringDoc OpenAPI)
 
 ---
 
 ## 📄 Certificados e Formação
 
-- [Spring Framework - Udemy](https://www.udemy.com/course/spring-framework/)  
-- [Engenharia de Software - IESB](https://www.iesb.br/)  
-- [Análise e Desenvolvimento de Sistemas - Estácio](https://www.estacio.br/)
+- 🎓 **[Spring Framework - Udemy](https://www.udemy.com/course/spring-framework/)**
+- 🎓 **[Engenharia de Software - IESB](https://www.iesb.br/)**
+- 🎓 **[Análise e Desenvolvimento de Sistemas - Estácio](https://www.estacio.br/)**
 
 ---
 
 ## 🧠 Soft Skills
 
-- Comunicação clara e objetiva  
-- Resolução de problemas  
-- Colaboração em equipe
+- **Comunicação clara e objetiva**
+- **Resolução de problemas**
+- **Colaboração em equipe**
 
 ---
 
 ## 📊 Metodologias de Trabalho
 
-- Kanban  
-- Scrum  
+- ✅ **Kanban**
+- ✅ **Scrum**
 
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leandrobarreto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em"/>
+</div>
+
+<div align="center">
+  <img src="https://github-contributions-api.deno.dev/leandrobarreto.svg" alt="contribution chart" />
+</div>
