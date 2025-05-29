@@ -61,7 +61,7 @@
 ## 📄 Certificados e Formação
 
 - 🎓 **[Spring Framework - Udemy](https://www.udemy.com/course/spring-framework/)**
-- 🎓 **[Engenharia de Software - IESB](https://www.iesb.br/)**
+-    **[Engenharia de Software - IESB](https://www.iesb.br/)**
 - 🎓 **[Análise e Desenvolvimento de Sistemas - Estácio](https://www.estacio.br/)**
 
 ---
