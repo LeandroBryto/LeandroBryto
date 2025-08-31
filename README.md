@@ -19,7 +19,7 @@
 </a>
 
 ---
-
+<!--
 ## 🚀 Tecnologias
 
 ### 💻 **Linguagens**
@@ -57,7 +57,7 @@
 **APIs**: Swagger (SpringDoc OpenAPI)
 
 ---
-
+-->
 ## 📄 Certificados e Formação
 
 - 🎓 **[Spring Framework - Udemy](https://www.udemy.com/course/spring-framework/)**
