@@ -9,7 +9,13 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Portfólio e Redes
+
+<a href="https://leandro-stack-ui.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/SITE%20PROFISSIONAL-LB%20DEVELOPER-3a43e0?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br>
 
 <a href="https://www.instagram.com/leandro_britodev10/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
