@@ -11,19 +11,17 @@
 
 ## 🌐 Portfólio e Redes
 
+### 🌐 Conecte-se Comigo
+
 <a href="https://leandro-stack-ui.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/SITE%20PROFISSIONAL-LB%20DEVELOPER-3a43e0?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br>
-
-<a href="https://www.instagram.com/leandro_britodev10/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LB_DEVELOPER-3a43e0?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/leandro-barreto-5128a223a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+<a href="https://www.instagram.com/leandro_britodev10/" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 ---
 <!--
 ## 🚀 Tecnologias
