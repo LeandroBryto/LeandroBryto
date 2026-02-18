@@ -9,8 +9,6 @@
 
 ---
 
-## 🌐 Portfólio e Redes
-
 ### 🌐 Conecte-se Comigo
 
 <a href="https://leandro-stack-ui.vercel.app/" target="_blank">
@@ -22,7 +20,7 @@
 <a href="https://www.instagram.com/leandro_britodev10/" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
----
+
 <!--
 ## 🚀 Tecnologias
 
